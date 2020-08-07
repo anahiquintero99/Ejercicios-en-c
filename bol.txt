@@ -1,0 +1,297 @@
+_________________________________________________
+ ipn-upiicsa 
+ Folio:0
+Boleta:1Nombre: Leonel Hernandes Carrera
+Materia Calificación
+Español 6
+Matemáticas 8
+Física 9
+Promedio 0.000000Autoriza:AMMG._________________________________________________
+_________________________________________________
+ ipn-upiicsa 
+ Folio:1
+Boleta:2Nombre: Martha Pacheco Veliz
+Materia Calificación
+Español 8
+Matemáticas 5
+Física 8
+Promedio 7.000000Autoriza:AMMG._________________________________________________
+_________________________________________________
+ ipn-upiicsa 
+ Folio:2
+Boleta:3Nombre: Lourdes Becerra Frias
+Materia Calificación
+Español 9
+Matemáticas 9
+Física 9
+Promedio 9.000000Autoriza:AMMG._________________________________________________
+_________________________________________________
+ ipn-upiicsa 
+ Folio:3
+Boleta:4Nombre: Lorenzo Carrasco Archuleta
+Materia Calificación
+Español 6
+Matemáticas 6
+Física 8
+Promedio 6.000000Autoriza:AMMG._________________________________________________
+_________________________________________________
+ ipn-upiicsa 
+ Folio:4
+Boleta:5Nombre: Alma Hernandes Rodarte
+Materia Calificación
+Español 4
+Matemáticas 8
+Física 9
+Promedio 7.000000Autoriza:AMMG._________________________________________________
+_________________________________________________
+ ipn-upiicsa 
+ Folio:5
+Boleta:6Nombre: Luz Aparicio Tapia
+Materia Calificación
+Español 9
+Matemáticas 9
+Física 9
+Promedio 9.000000Autoriza:AMMG._________________________________________________
+_________________________________________________
+ ipn-upiicsa 
+ Folio:6
+Boleta:7Nombre: Angela Pichardo Delgado
+Materia Calificación
+Español 3
+Matemáticas 5
+Física 1
+Promedio 3.000000Autoriza:AMMG._________________________________________________
+_________________________________________________
+ ipn-upiicsa 
+ Folio:7
+Boleta:8Nombre: Noemi Rodriquez Valle
+Materia Calificación
+Español 9
+Matemáticas 10
+Física 8
+Promedio 9.000000Autoriza:AMMG._________________________________________________
+_________________________________________________
+ ipn-upiicsa 
+ Folio:8
+Boleta:9Nombre: Ivan Enriquez Laureano
+Materia Calificación
+Español 10
+Matemáticas 10
+Física 10
+Promedio 10.000000Autoriza:AMMG._________________________________________________
+_________________________________________________
+ ipn-upiicsa 
+ Folio:9
+Boleta:10Nombre: Raquel Paz Vargas
+Materia Calificación
+Español 7
+Matemáticas 8
+Física 7
+Promedio 7.000000Autoriza:AMMG._________________________________________________
+_________________________________________________
+ ipn-upiicsa 
+ Folio:10
+Boleta:11Nombre: Wilfrido Iglesias Guardado
+Materia Calificación
+Español 3
+Matemáticas 9
+Física 6
+Promedio 6.000000Autoriza:AMMG._________________________________________________
+_________________________________________________
+ ipn-upiicsa 
+ Folio:11
+Boleta:12Nombre: Bernardo Flores Briseno
+Materia Calificación
+Español 9
+Matemáticas 8
+Física 9
+Promedio 8.000000Autoriza:AMMG._________________________________________________
+_________________________________________________
+ ipn-upiicsa 
+ Folio:12
+Boleta:13Nombre: Araceli Rojas Blanco
+Materia Calificación
+Español 6
+Matemáticas 7
+Física 6
+Promedio 6.000000Autoriza:AMMG._________________________________________________
+_________________________________________________
+ ipn-upiicsa 
+ Folio:13
+Boleta:14Nombre: Augusto Ramon Lebron
+Materia Calificación
+Español 3
+Matemáticas 9
+Física 8
+Promedio 6.000000Autoriza:AMMG._________________________________________________
+_________________________________________________
+ ipn-upiicsa 
+ Folio:14
+Boleta:15Nombre: Conchita Velasco Perez
+Materia Calificación
+Español 5
+Matemáticas 8
+Física 9
+Promedio 7.000000Autoriza:AMMG._________________________________________________
+_________________________________________________
+ ipn-upiicsa 
+ Folio:15
+Boleta:16Nombre: Debora Barela Montes
+Materia Calificación
+Español 9
+Matemáticas 1
+Física 10
+Promedio 6.000000Autoriza:AMMG._________________________________________________
+_________________________________________________
+ ipn-upiicsa 
+ Folio:16
+Boleta:17Nombre: Guadalupe Valencia Naranjo
+Materia Calificación
+Español 10
+Matemáticas 6
+Física 8
+Promedio 8.000000Autoriza:AMMG._________________________________________________
+_________________________________________________
+ ipn-upiicsa 
+ Folio:17
+Boleta:18Nombre: Laura Teran Valadez
+Materia Calificación
+Español 4
+Matemáticas 6
+Física 7
+Promedio 5.000000Autoriza:AMMG._________________________________________________
+_________________________________________________
+ ipn-upiicsa 
+ Folio:18
+Boleta:19Nombre: Nelly Cervantez Perez
+Materia Calificación
+Español 3
+Matemáticas 7
+Física 9
+Promedio 6.000000Autoriza:AMMG._________________________________________________
+_________________________________________________
+ ipn-upiicsa 
+ Folio:19
+Boleta:20Nombre: Dolores Jaime Santana
+Materia Calificación
+Español 7
+Matemáticas 1
+Física 10
+Promedio 6.000000Autoriza:AMMG._________________________________________________
+_________________________________________________
+ ipn-upiicsa 
+ Folio:20
+Boleta:21Nombre: Florencia Caballero Ponce
+Materia Calificación
+Español 9
+Matemáticas 2
+Física 6
+Promedio 5.000000Autoriza:AMMG._________________________________________________
+_________________________________________________
+ ipn-upiicsa 
+ Folio:21
+Boleta:22Nombre: Marisol Corona Aparicio
+Materia Calificación
+Español 9
+Matemáticas 5
+Física 9
+Promedio 7.000000Autoriza:AMMG._________________________________________________
+_________________________________________________
+ ipn-upiicsa 
+ Folio:22
+Boleta:23Nombre: Jonas Aranda Nino
+Materia Calificación
+Español 7
+Matemáticas 5
+Física 4
+Promedio 5.000000Autoriza:AMMG._________________________________________________
+_________________________________________________
+ ipn-upiicsa 
+ Folio:23
+Boleta:24Nombre: Eduardo Pedroza Pacheco
+Materia Calificación
+Español 5
+Matemáticas 10
+Física 9
+Promedio 8.000000Autoriza:AMMG._________________________________________________
+_________________________________________________
+ ipn-upiicsa 
+ Folio:24
+Boleta:25Nombre: Natalia Campos Espinoza
+Materia Calificación
+Español 7
+Matemáticas 6
+Física 9
+Promedio 7.000000Autoriza:AMMG._________________________________________________
+_________________________________________________
+ ipn-upiicsa 
+ Folio:25
+Boleta:26Nombre: Pamela Rivero Saucedo
+Materia Calificación
+Español 8
+Matemáticas 5
+Física 6
+Promedio 6.000000Autoriza:AMMG._________________________________________________
+_________________________________________________
+ ipn-upiicsa 
+ Folio:26
+Boleta:27Nombre: Gabriela Navarro Prado
+Materia Calificación
+Español 9
+Matemáticas 7
+Física 8
+Promedio 8.000000Autoriza:AMMG._________________________________________________
+_________________________________________________
+ ipn-upiicsa 
+ Folio:27
+Boleta:28Nombre: Jonas Montanez Griego
+Materia Calificación
+Español 5
+Matemáticas 9
+Física 8
+Promedio 7.000000Autoriza:AMMG._________________________________________________
+_________________________________________________
+ ipn-upiicsa 
+ Folio:28
+Boleta:29Nombre: Aurelio Duenas Colunga
+Materia Calificación
+Español 7
+Matemáticas 9
+Física 10
+Promedio 8.000000Autoriza:AMMG._________________________________________________
+_________________________________________________
+ ipn-upiicsa 
+ Folio:29
+Boleta:30Nombre: Hector Florez Palomo
+Materia Calificación
+Español 9
+Matemáticas 4
+Física 9
+Promedio 7.000000Autoriza:AMMG._________________________________________________
+_________________________________________________
+ ipn-upiicsa 
+ Folio:30
+Boleta:31Nombre: Veronica Renteria Ceja
+Materia Calificación
+Español 6
+Matemáticas 5
+Física 7
+Promedio 6.000000Autoriza:AMMG._________________________________________________
+_________________________________________________
+ ipn-upiicsa 
+ Folio:31
+Boleta:32Nombre: Angela Burgos Badillo
+Materia Calificación
+Español 8
+Matemáticas 8
+Física 7
+Promedio 7.000000Autoriza:AMMG._________________________________________________
+_________________________________________________
+ ipn-upiicsa 
+ Folio:32
+Boleta:33Nombre: Fernando Garcia Vazquez
+Materia Calificación
+Español 8
+Matemáticas 9
+Física 5
+Promedio 7.000000Autoriza:AMMG._________________________________________________

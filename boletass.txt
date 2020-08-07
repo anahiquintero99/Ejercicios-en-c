@@ -1,0 +1,1000 @@
+				 IPN
+				UPIICSA
+								FOLIO: 0
+							FECHA: 29/05/2020
+
+	 Nombre Alumno: SALINAS FORERO MARIO 	 No. de BOLETA: 39
+	 CARRERA: CIENCIAS DE LA INFORMATICA
+
+	 MATERIAS 			 CALIFICACIONES
+
+	 Sistemas Digitales 			 10
+	 Comunicacion 				 10
+	 Introduccion a la Informatica 	 10
+	 Algebra 				 10
+	 Logica Matematica			 10
+							 PROMEDIO: 10.00
+							 Autoriza: AQG
+
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 1
+							FECHA: 29/05/2020
+
+	 Nombre Alumno: HERNANDEZ MARTINEZ GABRIELA 	 No. de BOLETA: 4
+	 CARRERA: CIENCIAS DE LA INFORMATICA
+
+	 MATERIAS 			 CALIFICACIONES
+
+	 Sistemas Digitales 			 9
+	 Comunicacion 				 9
+	 Introduccion a la Informatica 	 9
+	 Algebra 				 9
+	 Logica Matematica			 10
+							 PROMEDIO: 9.20
+							 Autoriza: AQG
+
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 2
+							FECHA: 29/05/2020
+
+	 Nombre Alumno: ZAMORA MALDONADO JAVIER 	 No. de BOLETA: 13
+	 CARRERA: CIENCIAS DE LA INFORMATICA
+
+	 MATERIAS 			 CALIFICACIONES
+
+	 Sistemas Digitales 			 10
+	 Comunicacion 				 10
+	 Introduccion a la Informatica 	 8
+	 Algebra 				 8
+	 Logica Matematica			 9
+							 PROMEDIO: 9.00
+							 Autoriza: AQG
+
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 3
+							FECHA: 29/05/2020
+
+	 Nombre Alumno: MORENO RODRIGUEZ GABRIEL 	 No. de BOLETA: 17
+	 CARRERA: CIENCIAS DE LA INFORMATICA
+
+	 MATERIAS 			 CALIFICACIONES
+
+	 Sistemas Digitales 			 10
+	 Comunicacion 				 10
+	 Introduccion a la Informatica 	 10
+	 Algebra 				 4
+	 Logica Matematica			 9
+							 PROMEDIO: 8.60
+							 Autoriza: AQG
+
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 4
+							FECHA: 29/05/2020
+
+	 Nombre Alumno: ARAIZA CONTRERAS ARELY 	 No. de BOLETA: 18
+	 CARRERA: CIENCIAS DE LA INFORMATICA
+
+	 MATERIAS 			 CALIFICACIONES
+
+	 Sistemas Digitales 			 7
+	 Comunicacion 				 9
+	 Introduccion a la Informatica 	 9
+	 Algebra 				 8
+	 Logica Matematica			 10
+							 PROMEDIO: 8.60
+							 Autoriza: AQG
+
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 5
+							FECHA: 29/05/2020
+
+	 Nombre Alumno: ROJAS PRADA PABLO 	 No. de BOLETA: 11
+	 CARRERA: CIENCIAS DE LA INFORMATICA
+
+	 MATERIAS 			 CALIFICACIONES
+
+	 Sistemas Digitales 			 8
+	 Comunicacion 				 7
+	 Introduccion a la Informatica 	 9
+	 Algebra 				 9
+	 Logica Matematica			 10
+							 PROMEDIO: 8.60
+							 Autoriza: AQG
+
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 6
+							FECHA: 29/05/2020
+
+	 Nombre Alumno: PADILLA GUZMAN CARLA 	 No. de BOLETA: 44
+	 CARRERA: CIENCIAS DE LA INFORMATICA
+
+	 MATERIAS 			 CALIFICACIONES
+
+	 Sistemas Digitales 			 8
+	 Comunicacion 				 8
+	 Introduccion a la Informatica 	 9
+	 Algebra 				 9
+	 Logica Matematica			 9
+							 PROMEDIO: 8.60
+							 Autoriza: AQG
+
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 7
+							FECHA: 29/05/2020
+
+	 Nombre Alumno: GARCIA VAZQUEZ WENDY 	 No. de BOLETA: 21
+	 CARRERA: CIENCIAS DE LA INFORMATICA
+
+	 MATERIAS 			 CALIFICACIONES
+
+	 Sistemas Digitales 			 9
+	 Comunicacion 				 8
+	 Introduccion a la Informatica 	 8
+	 Algebra 				 8
+	 Logica Matematica			 9
+							 PROMEDIO: 8.40
+							 Autoriza: AQG
+
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 8
+							FECHA: 29/05/2020
+
+	 Nombre Alumno: VILLEGAS RAMIREZ LINALOE 	 No. de BOLETA: 45
+	 CARRERA: CIENCIAS DE LA INFORMATICA
+
+	 MATERIAS 			 CALIFICACIONES
+
+	 Sistemas Digitales 			 7
+	 Comunicacion 				 7
+	 Introduccion a la Informatica 	 9
+	 Algebra 				 9
+	 Logica Matematica			 10
+							 PROMEDIO: 8.40
+							 Autoriza: AQG
+
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 9
+							FECHA: 29/05/2020
+
+	 Nombre Alumno: GARCIA SANCHEZ BRITANIE 	 No. de BOLETA: 5
+	 CARRERA: CIENCIAS DE LA INFORMATICA
+
+	 MATERIAS 			 CALIFICACIONES
+
+	 Sistemas Digitales 			 9
+	 Comunicacion 				 9
+	 Introduccion a la Informatica 	 9
+	 Algebra 				 8
+	 Logica Matematica			 6
+							 PROMEDIO: 8.20
+							 Autoriza: AQG
+
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 10
+							FECHA: 29/05/2020
+
+	 Nombre Alumno: RAMIREZ ESTRADA DANIEL 	 No. de BOLETA: 15
+	 CARRERA: CIENCIAS DE LA INFORMATICA
+
+	 MATERIAS 			 CALIFICACIONES
+
+	 Sistemas Digitales 			 9
+	 Comunicacion 				 10
+	 Introduccion a la Informatica 	 9
+	 Algebra 				 10
+	 Logica Matematica			 3
+							 PROMEDIO: 8.20
+							 Autoriza: AQG
+
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 11
+							FECHA: 29/05/2020
+
+	 Nombre Alumno: PAREDES ORJUELA OSVALDO 	 No. de BOLETA: 48
+	 CARRERA: CIENCIAS DE LA INFORMATICA
+
+	 MATERIAS 			 CALIFICACIONES
+
+	 Sistemas Digitales 			 7
+	 Comunicacion 				 8
+	 Introduccion a la Informatica 	 9
+	 Algebra 				 9
+	 Logica Matematica			 8
+							 PROMEDIO: 8.20
+							 Autoriza: AQG
+
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 12
+							FECHA: 29/05/2020
+
+	 Nombre Alumno: RAMIREZ MONTERROZA ABELARDO 	 No. de BOLETA: 47
+	 CARRERA: CIENCIAS DE LA INFORMATICA
+
+	 MATERIAS 			 CALIFICACIONES
+
+	 Sistemas Digitales 			 8
+	 Comunicacion 				 8
+	 Introduccion a la Informatica 	 9
+	 Algebra 				 8
+	 Logica Matematica			 7
+							 PROMEDIO: 8.00
+							 Autoriza: AQG
+
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 13
+							FECHA: 29/05/2020
+
+	 Nombre Alumno: VALAFOX GALEANO SERGIO 	 No. de BOLETA: 46
+	 CARRERA: CIENCIAS DE LA INFORMATICA
+
+	 MATERIAS 			 CALIFICACIONES
+
+	 Sistemas Digitales 			 8
+	 Comunicacion 				 8
+	 Introduccion a la Informatica 	 8
+	 Algebra 				 8
+	 Logica Matematica			 8
+							 PROMEDIO: 8.00
+							 Autoriza: AQG
+
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 14
+							FECHA: 29/05/2020
+
+	 Nombre Alumno: QUINTERO ARISTIZABAL YESENIA 	 No. de BOLETA: 43
+	 CARRERA: CIENCIAS DE LA INFORMATICA
+
+	 MATERIAS 			 CALIFICACIONES
+
+	 Sistemas Digitales 			 7
+	 Comunicacion 				 8
+	 Introduccion a la Informatica 	 8
+	 Algebra 				 7
+	 Logica Matematica			 9
+							 PROMEDIO: 7.80
+							 Autoriza: AQG
+
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 15
+							FECHA: 29/05/2020
+
+	 Nombre Alumno: QUIROZ AMAYA NOEMI 	 No. de BOLETA: 7
+	 CARRERA: CIENCIAS DE LA INFORMATICA
+
+	 MATERIAS 			 CALIFICACIONES
+
+	 Sistemas Digitales 			 10
+	 Comunicacion 				 8
+	 Introduccion a la Informatica 	 9
+	 Algebra 				 9
+	 Logica Matematica			 3
+							 PROMEDIO: 7.80
+							 Autoriza: AQG
+
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 16
+							FECHA: 29/05/2020
+
+	 Nombre Alumno: PICHARDO RAMIREZ ANGEL 	 No. de BOLETA: 6
+	 CARRERA: CIENCIAS DE LA INFORMATICA
+
+	 MATERIAS 			 CALIFICACIONES
+
+	 Sistemas Digitales 			 7
+	 Comunicacion 				 8
+	 Introduccion a la Informatica 	 9
+	 Algebra 				 8
+	 Logica Matematica			 7
+							 PROMEDIO: 7.80
+							 Autoriza: AQG
+
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 17
+							FECHA: 29/05/2020
+
+	 Nombre Alumno: VANQUEZ SALGADO ANDREA 	 No. de BOLETA: 25
+	 CARRERA: CIENCIAS DE LA INFORMATICA
+
+	 MATERIAS 			 CALIFICACIONES
+
+	 Sistemas Digitales 			 6
+	 Comunicacion 				 9
+	 Introduccion a la Informatica 	 6
+	 Algebra 				 9
+	 Logica Matematica			 9
+							 PROMEDIO: 7.80
+							 Autoriza: AQG
+
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 18
+							FECHA: 29/05/2020
+
+	 Nombre Alumno: BASTIAN PICO JOSE 	 No. de BOLETA: 12
+	 CARRERA: CIENCIAS DE LA INFORMATICA
+
+	 MATERIAS 			 CALIFICACIONES
+
+	 Sistemas Digitales 			 9
+	 Comunicacion 				 8
+	 Introduccion a la Informatica 	 10
+	 Algebra 				 8
+	 Logica Matematica			 4
+							 PROMEDIO: 7.80
+							 Autoriza: AQG
+
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 19
+							FECHA: 29/05/2020
+
+	 Nombre Alumno: LUGO ANTIA FERNANDO 	 No. de BOLETA: 41
+	 CARRERA: CIENCIAS DE LA INFORMATICA
+
+	 MATERIAS 			 CALIFICACIONES
+
+	 Sistemas Digitales 			 8
+	 Comunicacion 				 8
+	 Introduccion a la Informatica 	 9
+	 Algebra 				 7
+	 Logica Matematica			 7
+							 PROMEDIO: 7.80
+							 Autoriza: AQG
+
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 20
+							FECHA: 29/05/2020
+
+	 Nombre Alumno: CARMONA GALEANO ABEL 	 No. de BOLETA: 35
+	 CARRERA: CIENCIAS DE LA INFORMATICA
+
+	 MATERIAS 			 CALIFICACIONES
+
+	 Sistemas Digitales 			 9
+	 Comunicacion 				 9
+	 Introduccion a la Informatica 	 9
+	 Algebra 				 3
+	 Logica Matematica			 8
+							 PROMEDIO: 7.60
+							 Autoriza: AQG
+
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 21
+							FECHA: 29/05/2020
+
+	 Nombre Alumno: BARRANCA BRAVO ANA 	 No. de BOLETA: 10
+	 CARRERA: CIENCIAS DE LA INFORMATICA
+
+	 MATERIAS 			 CALIFICACIONES
+
+	 Sistemas Digitales 			 8
+	 Comunicacion 				 8
+	 Introduccion a la Informatica 	 7
+	 Algebra 				 6
+	 Logica Matematica			 9
+							 PROMEDIO: 7.60
+							 Autoriza: AQG
+
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 22
+							FECHA: 29/05/2020
+
+	 Nombre Alumno: BLANCO LOPEZ LORENA 	 No. de BOLETA: 26
+	 CARRERA: CIENCIAS DE LA INFORMATICA
+
+	 MATERIAS 			 CALIFICACIONES
+
+	 Sistemas Digitales 			 6
+	 Comunicacion 				 9
+	 Introduccion a la Informatica 	 6
+	 Algebra 				 8
+	 Logica Matematica			 9
+							 PROMEDIO: 7.60
+							 Autoriza: AQG
+
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 23
+							FECHA: 29/05/2020
+
+	 Nombre Alumno: GRANADOS GIANINE CAROLINA 	 No. de BOLETA: 42
+	 CARRERA: CIENCIAS DE LA INFORMATICA
+
+	 MATERIAS 			 CALIFICACIONES
+
+	 Sistemas Digitales 			 6
+	 Comunicacion 				 7
+	 Introduccion a la Informatica 	 8
+	 Algebra 				 8
+	 Logica Matematica			 9
+							 PROMEDIO: 7.60
+							 Autoriza: AQG
+
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 24
+							FECHA: 29/05/2020
+
+	 Nombre Alumno: SIERRA VILLAMIL ALEJANDRA 	 No. de BOLETA: 34
+	 CARRERA: CIENCIAS DE LA INFORMATICA
+
+	 MATERIAS 			 CALIFICACIONES
+
+	 Sistemas Digitales 			 7
+	 Comunicacion 				 7
+	 Introduccion a la Informatica 	 9
+	 Algebra 				 6
+	 Logica Matematica			 9
+							 PROMEDIO: 7.60
+							 Autoriza: AQG
+
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 25
+							FECHA: 29/05/2020
+
+	 Nombre Alumno: VILLALOBOS BADABUM CARLOS 	 No. de BOLETA: 22
+	 CARRERA: CIENCIAS DE LA INFORMATICA
+
+	 MATERIAS 			 CALIFICACIONES
+
+	 Sistemas Digitales 			 4
+	 Comunicacion 				 9
+	 Introduccion a la Informatica 	 5
+	 Algebra 				 9
+	 Logica Matematica			 9
+							 PROMEDIO: 7.20
+							 Autoriza: AQG
+
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 26
+							FECHA: 29/05/2020
+
+	 Nombre Alumno: GARCIA ACEVEDO IGNACIO 	 No. de BOLETA: 23
+	 CARRERA: CIENCIAS DE LA INFORMATICA
+
+	 MATERIAS 			 CALIFICACIONES
+
+	 Sistemas Digitales 			 8
+	 Comunicacion 				 6
+	 Introduccion a la Informatica 	 9
+	 Algebra 				 7
+	 Logica Matematica			 6
+							 PROMEDIO: 7.20
+							 Autoriza: AQG
+
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 27
+							FECHA: 29/05/2020
+
+	 Nombre Alumno: PICHARDO MUNOZ MARIANA 	 No. de BOLETA: 37
+	 CARRERA: CIENCIAS DE LA INFORMATICA
+
+	 MATERIAS 			 CALIFICACIONES
+
+	 Sistemas Digitales 			 5
+	 Comunicacion 				 6
+	 Introduccion a la Informatica 	 6
+	 Algebra 				 10
+	 Logica Matematica			 9
+							 PROMEDIO: 7.20
+							 Autoriza: AQG
+
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 28
+							FECHA: 29/05/2020
+
+	 Nombre Alumno: NIEVES CONCHA MONSERRAT 	 No. de BOLETA: 27
+	 CARRERA: CIENCIAS DE LA INFORMATICA
+
+	 MATERIAS 			 CALIFICACIONES
+
+	 Sistemas Digitales 			 7
+	 Comunicacion 				 7
+	 Introduccion a la Informatica 	 5
+	 Algebra 				 9
+	 Logica Matematica			 8
+							 PROMEDIO: 7.20
+							 Autoriza: AQG
+
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 29
+							FECHA: 29/05/2020
+
+	 Nombre Alumno: PARRA ZAMBRANO RODRIGO 	 No. de BOLETA: 30
+	 CARRERA: CIENCIAS DE LA INFORMATICA
+
+	 MATERIAS 			 CALIFICACIONES
+
+	 Sistemas Digitales 			 5
+	 Comunicacion 				 5
+	 Introduccion a la Informatica 	 8
+	 Algebra 				 9
+	 Logica Matematica			 8
+							 PROMEDIO: 7.00
+							 Autoriza: AQG
+
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 30
+							FECHA: 29/05/2020
+
+	 Nombre Alumno: ARGUELLES BUSTOS ARIEL 	 No. de BOLETA: 36
+	 CARRERA: CIENCIAS DE LA INFORMATICA
+
+	 MATERIAS 			 CALIFICACIONES
+
+	 Sistemas Digitales 			 6
+	 Comunicacion 				 4
+	 Introduccion a la Informatica 	 9
+	 Algebra 				 8
+	 Logica Matematica			 8
+							 PROMEDIO: 7.00
+							 Autoriza: AQG
+
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 31
+							FECHA: 29/05/2020
+
+	 Nombre Alumno: SORIANO CALDERIN EDUARDO 	 No. de BOLETA: 40
+	 CARRERA: CIENCIAS DE LA INFORMATICA
+
+	 MATERIAS 			 CALIFICACIONES
+
+	 Sistemas Digitales 			 8
+	 Comunicacion 				 8
+	 Introduccion a la Informatica 	 8
+	 Algebra 				 5
+	 Logica Matematica			 5
+							 PROMEDIO: 6.80
+							 Autoriza: AQG
+
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 32
+							FECHA: 29/05/2020
+
+	 Nombre Alumno: MARTINEZ PENAGOS ISABELA 	 No. de BOLETA: 24
+	 CARRERA: CIENCIAS DE LA INFORMATICA
+
+	 MATERIAS 			 CALIFICACIONES
+
+	 Sistemas Digitales 			 5
+	 Comunicacion 				 5
+	 Introduccion a la Informatica 	 9
+	 Algebra 				 7
+	 Logica Matematica			 8
+							 PROMEDIO: 6.80
+							 Autoriza: AQG
+
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 33
+							FECHA: 29/05/2020
+
+	 Nombre Alumno: MARTINEZ MOJICA MAUIRICIO 	 No. de BOLETA: 14
+	 CARRERA: CIENCIAS DE LA INFORMATICA
+
+	 MATERIAS 			 CALIFICACIONES
+
+	 Sistemas Digitales 			 9
+	 Comunicacion 				 7
+	 Introduccion a la Informatica 	 7
+	 Algebra 				 9
+	 Logica Matematica			 2
+							 PROMEDIO: 6.80
+							 Autoriza: AQG
+
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 34
+							FECHA: 29/05/2020
+
+	 Nombre Alumno: VEGA ZUBIETA ANGEL 	 No. de BOLETA: 29
+	 CARRERA: CIENCIAS DE LA INFORMATICA
+
+	 MATERIAS 			 CALIFICACIONES
+
+	 Sistemas Digitales 			 6
+	 Comunicacion 				 7
+	 Introduccion a la Informatica 	 6
+	 Algebra 				 8
+	 Logica Matematica			 6
+							 PROMEDIO: 6.60
+							 Autoriza: AQG
+
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 35
+							FECHA: 29/05/2020
+
+	 Nombre Alumno: BARRERA TORRES BRANDON 	 No. de BOLETA: 31
+	 CARRERA: CIENCIAS DE LA INFORMATICA
+
+	 MATERIAS 			 CALIFICACIONES
+
+	 Sistemas Digitales 			 8
+	 Comunicacion 				 8
+	 Introduccion a la Informatica 	 4
+	 Algebra 				 8
+	 Logica Matematica			 5
+							 PROMEDIO: 6.60
+							 Autoriza: AQG
+
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 36
+							FECHA: 29/05/2020
+
+	 Nombre Alumno: PARDES VELASCO ANGELICA 	 No. de BOLETA: 2
+	 CARRERA: CIENCIAS DE LA INFORMATICA
+
+	 MATERIAS 			 CALIFICACIONES
+
+	 Sistemas Digitales 			 6
+	 Comunicacion 				 7
+	 Introduccion a la Informatica 	 7
+	 Algebra 				 8
+	 Logica Matematica			 4
+							 PROMEDIO: 6.40
+							 Autoriza: AQG
+
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 37
+							FECHA: 29/05/2020
+
+	 Nombre Alumno: REYNOSA SANCHEZ MARISOL 	 No. de BOLETA: 38
+	 CARRERA: CIENCIAS DE LA INFORMATICA
+
+	 MATERIAS 			 CALIFICACIONES
+
+	 Sistemas Digitales 			 8
+	 Comunicacion 				 7
+	 Introduccion a la Informatica 	 6
+	 Algebra 				 6
+	 Logica Matematica			 5
+							 PROMEDIO: 6.40
+							 Autoriza: AQG
+
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 38
+							FECHA: 29/05/2020
+
+	 Nombre Alumno: CARMONA VARGAS ALEJANDRO 	 No. de BOLETA: 3
+	 CARRERA: CIENCIAS DE LA INFORMATICA
+
+	 MATERIAS 			 CALIFICACIONES
+
+	 Sistemas Digitales 			 9
+	 Comunicacion 				 8
+	 Introduccion a la Informatica 	 7
+	 Algebra 				 6
+	 Logica Matematica			 2
+							 PROMEDIO: 6.40
+							 Autoriza: AQG
+
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 39
+							FECHA: 29/05/2020
+
+	 Nombre Alumno: CASTILLO PINZON RICARDO 	 No. de BOLETA: 32
+	 CARRERA: CIENCIAS DE LA INFORMATICA
+
+	 MATERIAS 			 CALIFICACIONES
+
+	 Sistemas Digitales 			 8
+	 Comunicacion 				 9
+	 Introduccion a la Informatica 	 3
+	 Algebra 				 4
+	 Logica Matematica			 8
+							 PROMEDIO: 6.40
+							 Autoriza: AQG
+
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 40
+							FECHA: 29/05/2020
+
+	 Nombre Alumno: ITURRIAGA LINAREZ DENYZ 	 No. de BOLETA: 8
+	 CARRERA: CIENCIAS DE LA INFORMATICA
+
+	 MATERIAS 			 CALIFICACIONES
+
+	 Sistemas Digitales 			 6
+	 Comunicacion 				 6
+	 Introduccion a la Informatica 	 6
+	 Algebra 				 6
+	 Logica Matematica			 7
+							 PROMEDIO: 6.20
+							 Autoriza: AQG
+
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 41
+							FECHA: 29/05/2020
+
+	 Nombre Alumno: RECILLAS URBANO SEBASTIAN 	 No. de BOLETA: 19
+	 CARRERA: CIENCIAS DE LA INFORMATICA
+
+	 MATERIAS 			 CALIFICACIONES
+
+	 Sistemas Digitales 			 2
+	 Comunicacion 				 9
+	 Introduccion a la Informatica 	 5
+	 Algebra 				 6
+	 Logica Matematica			 9
+							 PROMEDIO: 6.20
+							 Autoriza: AQG
+
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 42
+							FECHA: 29/05/2020
+
+	 Nombre Alumno: ANGELES SABOGAL LEILANI 	 No. de BOLETA: 28
+	 CARRERA: CIENCIAS DE LA INFORMATICA
+
+	 MATERIAS 			 CALIFICACIONES
+
+	 Sistemas Digitales 			 5
+	 Comunicacion 				 6
+	 Introduccion a la Informatica 	 7
+	 Algebra 				 5
+	 Logica Matematica			 7
+							 PROMEDIO: 6.00
+							 Autoriza: AQG
+
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 43
+							FECHA: 29/05/2020
+
+	 Nombre Alumno: CAMARENA VARGAS FEDERICO 	 No. de BOLETA: 49
+	 CARRERA: CIENCIAS DE LA INFORMATICA
+
+	 MATERIAS 			 CALIFICACIONES
+
+	 Sistemas Digitales 			 5
+	 Comunicacion 				 5
+	 Introduccion a la Informatica 	 6
+	 Algebra 				 6
+	 Logica Matematica			 6
+							 PROMEDIO: 5.60
+							 Autoriza: AQG
+
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 44
+							FECHA: 29/05/2020
+
+	 Nombre Alumno: ALVAREZ MARQUEZ ANAHI 	 No. de BOLETA: 1
+	 CARRERA: CIENCIAS DE LA INFORMATICA
+
+	 MATERIAS 			 CALIFICACIONES
+
+	 Sistemas Digitales 			 4
+	 Comunicacion 				 5
+	 Introduccion a la Informatica 	 4
+	 Algebra 				 4
+	 Logica Matematica			 10
+							 PROMEDIO: 5.40
+							 Autoriza: AQG
+
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 45
+							FECHA: 29/05/2020
+
+	 Nombre Alumno: GARCES PARRA ALDO 	 No. de BOLETA: 33
+	 CARRERA: CIENCIAS DE LA INFORMATICA
+
+	 MATERIAS 			 CALIFICACIONES
+
+	 Sistemas Digitales 			 6
+	 Comunicacion 				 6
+	 Introduccion a la Informatica 	 6
+	 Algebra 				 2
+	 Logica Matematica			 6
+							 PROMEDIO: 5.20
+							 Autoriza: AQG
+
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 46
+							FECHA: 29/05/2020
+
+	 Nombre Alumno: JARAMILLO GUITIERREZ PATRICIO 	 No. de BOLETA: 20
+	 CARRERA: CIENCIAS DE LA INFORMATICA
+
+	 MATERIAS 			 CALIFICACIONES
+
+	 Sistemas Digitales 			 3
+	 Comunicacion 				 8
+	 Introduccion a la Informatica 	 9
+	 Algebra 				 4
+	 Logica Matematica			 1
+							 PROMEDIO: 5.00
+							 Autoriza: AQG
+
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 47
+							FECHA: 29/05/2020
+
+	 Nombre Alumno: MEDINA VALENTIN OSCAR 	 No. de BOLETA: 16
+	 CARRERA: CIENCIAS DE LA INFORMATICA
+
+	 MATERIAS 			 CALIFICACIONES
+
+	 Sistemas Digitales 			 2
+	 Comunicacion 				 6
+	 Introduccion a la Informatica 	 5
+	 Algebra 				 9
+	 Logica Matematica			 3
+							 PROMEDIO: 5.00
+							 Autoriza: AQG
+
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 48
+							FECHA: 29/05/2020
+
+	 Nombre Alumno: VILLA MONTES PEDRO 	 No. de BOLETA: 9
+	 CARRERA: CIENCIAS DE LA INFORMATICA
+
+	 MATERIAS 			 CALIFICACIONES
+
+	 Sistemas Digitales 			 3
+	 Comunicacion 				 2
+	 Introduccion a la Informatica 	 5
+	 Algebra 				 4
+	 Logica Matematica			 3
+							 PROMEDIO: 3.40
+							 Autoriza: AQG
+
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 49
+							FECHA: 29/05/2020
+
+	 Nombre Alumno: MENDOZA ROJAS PANCRASIO 	 No. de BOLETA: 50
+	 CARRERA: CIENCIAS DE LA INFORMATICA
+
+	 MATERIAS 			 CALIFICACIONES
+
+	 Sistemas Digitales 			 2
+	 Comunicacion 				 2
+	 Introduccion a la Informatica 	 2
+	 Algebra 				 3
+	 Logica Matematica			 2
+							 PROMEDIO: 2.20
+							 Autoriza: AQG
+
+__________________________________________________________________________________
+

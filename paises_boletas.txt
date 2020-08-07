@@ -1,0 +1,750 @@
+				 IPN
+				UPIICSA
+								FOLIO: 0
+
+	 Nombre Pais: Honduras 	 BOLETA:1 
+	 INFORMACI”N SOBRE EL PAIS
+
+	 Nombre del Presidente: Juan Orlando Hernandez 
+	 Poblacion: 				 298 millones
+	 Estados: 				 9 estados
+	 Iidioma: 				 Espanol
+	 Gentilicio: 				 Hondureno
+	 Capital: 				 Distrito.Central
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 1
+
+	 Nombre Pais: Austria 	 BOLETA:9 
+	 INFORMACI”N SOBRE EL PAIS
+
+	 Nombre del Presidente: Alexander Vander Bellen 
+	 Poblacion: 				 8 millones
+	 Estados: 				 9 estados
+	 Iidioma: 				 Aleman
+	 Gentilicio: 				 Austriaco
+	 Capital: 				 Viena
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 2
+
+	 Nombre Pais: Suiza 	 BOLETA:10 
+	 INFORMACI”N SOBRE EL PAIS
+
+	 Nombre del Presidente: Walter Thurnherr . 
+	 Poblacion: 				 8 millones
+	 Estados: 				 26 estados
+	 Iidioma: 				 Aleman
+	 Gentilicio: 				 Suizo
+	 Capital: 				 Berna
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 3
+
+	 Nombre Pais: Italia 	 BOLETA:11 
+	 INFORMACI”N SOBRE EL PAIS
+
+	 Nombre del Presidente: Sergio Mattarella . 
+	 Poblacion: 				 30 millones
+	 Estados: 				 107 estados
+	 Iidioma: 				 Italiano
+	 Gentilicio: 				 Italiano
+	 Capital: 				 Roma
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 4
+
+	 Nombre Pais: Venezuela 	 BOLETA:12 
+	 INFORMACI”N SOBRE EL PAIS
+
+	 Nombre del Presidente: Nicolas Maduro . 
+	 Poblacion: 				 23 millones
+	 Estados: 				 28 estados
+	 Iidioma: 				 Espanol
+	 Gentilicio: 				 Venezolano
+	 Capital: 				 Caracas
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 5
+
+	 Nombre Pais: Gales 	 BOLETA:15 
+	 INFORMACI”N SOBRE EL PAIS
+
+	 Nombre del Presidente: Carlos Pr√≠ncipe.de Gales 
+	 Poblacion: 				 3 millones
+	 Estados: 				 8 estados
+	 Iidioma: 				 Gales
+	 Gentilicio: 				 Gales
+	 Capital: 				 Cardiff
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 6
+
+	 Nombre Pais: Inglaterra 	 BOLETA:16 
+	 INFORMACI”N SOBRE EL PAIS
+
+	 Nombre del Presidente: Isabel II . 
+	 Poblacion: 				 55 millones
+	 Estados: 				 4 estados
+	 Iidioma: 				 Ingles
+	 Gentilicio: 				 Inles
+	 Capital: 				 Londres
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 7
+
+	 Nombre Pais: Egipto 	 BOLETA:17 
+	 INFORMACI”N SOBRE EL PAIS
+
+	 Nombre del Presidente: Abdelfatah Al-Sisi . 
+	 Poblacion: 				 100 millones
+	 Estados: 				 26 estados
+	 Iidioma: 				 Arabe
+	 Gentilicio: 				 Egipcio
+	 Capital: 				 El.Cairo
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 8
+
+	 Nombre Pais: Arabia.Saudita 	 BOLETA:18 
+	 INFORMACI”N SOBRE EL PAIS
+
+	 Nombre del Presidente: Salman bin Abdulaziz 
+	 Poblacion: 				 32 millones
+	 Estados: 				 4 estados
+	 Iidioma: 				 Arabe
+	 Gentilicio: 				 Saudi
+	 Capital: 				 Riad
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 9
+
+	 Nombre Pais: Irak 	 BOLETA:19 
+	 INFORMACI”N SOBRE EL PAIS
+
+	 Nombre del Presidente: Barham Salih . 
+	 Poblacion: 				 40 millones
+	 Estados: 				 19 estados
+	 Iidioma: 				 Arabe
+	 Gentilicio: 				 Iraqui
+	 Capital: 				 Bagdad
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 10
+
+	 Nombre Pais: Suecia 	 BOLETA:20 
+	 INFORMACI”N SOBRE EL PAIS
+
+	 Nombre del Presidente: Carlos XVI Gustavo 
+	 Poblacion: 				 10 millones
+	 Estados: 				 25 estados
+	 Iidioma: 				 Sueco
+	 Gentilicio: 				 Sueco
+	 Capital: 				 Estocolmo
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 11
+
+	 Nombre Pais: Guatemala 	 BOLETA:21 
+	 INFORMACI”N SOBRE EL PAIS
+
+	 Nombre del Presidente: Alejandro Giammattei . 
+	 Poblacion: 				 22 millones
+	 Estados: 				 16 estados
+	 Iidioma: 				 Espanol
+	 Gentilicio: 				 Guatemalteco
+	 Capital: 				 Ciudad.Guatemala
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 12
+
+	 Nombre Pais: Canada 	 BOLETA:22 
+	 INFORMACI”N SOBRE EL PAIS
+
+	 Nombre del Presidente: Justin Trudeau . 
+	 Poblacion: 				 37 millones
+	 Estados: 				 10 estados
+	 Iidioma: 				 ingles
+	 Gentilicio: 				 Canadiense
+	 Capital: 				 Ottawa
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 13
+
+	 Nombre Pais: Chile 	 BOLETA:23 
+	 INFORMACI”N SOBRE EL PAIS
+
+	 Nombre del Presidente: Sebastian Pinera . 
+	 Poblacion: 				 56 millones
+	 Estados: 				 19 estados
+	 Iidioma: 				 Espanol
+	 Gentilicio: 				 Chileno
+	 Capital: 				 Santiago.de.chile
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 14
+
+	 Nombre Pais: Israel 	 BOLETA:25 
+	 INFORMACI”N SOBRE EL PAIS
+
+	 Nombre del Presidente: Reuven Rivlin . 
+	 Poblacion: 				 8 millones
+	 Estados: 				 50 estados
+	 Iidioma: 				 Hebreo
+	 Gentilicio: 				 Israeli
+	 Capital: 				 Jerusalen
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 15
+
+	 Nombre Pais: Luxemburgo 	 BOLETA:26 
+	 INFORMACI”N SOBRE EL PAIS
+
+	 Nombre del Presidente: Gran Duque Enrique 
+	 Poblacion: 				 602 millones
+	 Estados: 				 0 estados
+	 Iidioma: 				 Luxemburgues
+	 Gentilicio: 				 Luxemburgues
+	 Capital: 				 Luxemburgo
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 16
+
+	 Nombre Pais: Dinamarca 	 BOLETA:30 
+	 INFORMACI”N SOBRE EL PAIS
+
+	 Nombre del Presidente: Margarita II . 
+	 Poblacion: 				 5 millones
+	 Estados: 				 3 estados
+	 Iidioma: 				 Danes
+	 Gentilicio: 				 Danes
+	 Capital: 				 Copenhague
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 17
+
+	 Nombre Pais: Nicaragua 	 BOLETA:32 
+	 INFORMACI”N SOBRE EL PAIS
+
+	 Nombre del Presidente: Daniel Ortega . 
+	 Poblacion: 				 15 millones
+	 Estados: 				 6 estados
+	 Iidioma: 				 Espanol
+	 Gentilicio: 				 Nicaraguense
+	 Capital: 				 Managua
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 18
+
+	 Nombre Pais: Mexico 	 BOLETA:33 
+	 INFORMACI”N SOBRE EL PAIS
+
+	 Nombre del Presidente: AndresM lopez obrador 
+	 Poblacion: 				 126 millones
+	 Estados: 				 32 estados
+	 Iidioma: 				 Espanol
+	 Gentilicio: 				 Mexicano
+	 Capital: 				 CDMX
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 19
+
+	 Nombre Pais: Argentina 	 BOLETA:34 
+	 INFORMACI”N SOBRE EL PAIS
+
+	 Nombre del Presidente: Alberto Fernandez . 
+	 Poblacion: 				 24 millones
+	 Estados: 				 44 estados
+	 Iidioma: 				 Castellano
+	 Gentilicio: 				 Argentino
+	 Capital: 				 Buenos.Aires
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 20
+
+	 Nombre Pais: Ucrania 	 BOLETA:35 
+	 INFORMACI”N SOBRE EL PAIS
+
+	 Nombre del Presidente: Volodimir Zelenski . 
+	 Poblacion: 				 41 millones
+	 Estados: 				 490 estados
+	 Iidioma: 				 Ucraniano
+	 Gentilicio: 				 Ucraniano
+	 Capital: 				 Kyiv
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 21
+
+	 Nombre Pais: Monaco 	 BOLETA:36 
+	 INFORMACI”N SOBRE EL PAIS
+
+	 Nombre del Presidente: Alberto II . 
+	 Poblacion: 				 38 millones
+	 Estados: 				 0 estados
+	 Iidioma: 				 Frances
+	 Gentilicio: 				 Monegasco
+	 Capital: 				 Ciudad.De.Monaco
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 22
+
+	 Nombre Pais: Ciudad.Del.Vaticano 	 BOLETA:38 
+	 INFORMACI”N SOBRE EL PAIS
+
+	 Nombre del Presidente: Papa Francisco . 
+	 Poblacion: 				 1 millones
+	 Estados: 				 6 estados
+	 Iidioma: 				 Italiano
+	 Gentilicio: 				 Vaticano
+	 Capital: 				 Ciudad.Del.Vaticano
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 23
+
+	 Nombre Pais: Noruega 	 BOLETA:40 
+	 INFORMACI”N SOBRE EL PAIS
+
+	 Nombre del Presidente: Harald V . 
+	 Poblacion: 				 5 millones
+	 Estados: 				 356 estados
+	 Iidioma: 				 Noruego
+	 Gentilicio: 				 Noruega
+	 Capital: 				 Oslo
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 24
+
+	 Nombre Pais: El.Salvador 	 BOLETA:43 
+	 INFORMACI”N SOBRE EL PAIS
+
+	 Nombre del Presidente: Nayib Bukele . 
+	 Poblacion: 				 6 millones
+	 Estados: 				 14 estados
+	 Iidioma: 				 Espanol
+	 Gentilicio: 				 Salvadoreno
+	 Capital: 				 San.Salvador
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 25
+
+	 Nombre Pais: Brasil 	 BOLETA:44 
+	 INFORMACI”N SOBRE EL PAIS
+
+	 Nombre del Presidente: Jair Bolsonaro . 
+	 Poblacion: 				 209 millones
+	 Estados: 				 26 estados
+	 Iidioma: 				 Portugues
+	 Gentilicio: 				 Brasileno
+	 Capital: 				 Brasilia
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 26
+
+	 Nombre Pais: Bolivia 	 BOLETA:45 
+	 INFORMACI”N SOBRE EL PAIS
+
+	 Nombre del Presidente: Luis Lacalle Pou 
+	 Poblacion: 				 19 millones
+	 Estados: 				 3 estados
+	 Iidioma: 				 Espanol
+	 Gentilicio: 				 Uruguayo
+	 Capital: 				 Montevideo
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 27
+
+	 Nombre Pais: Filandia 	 BOLETA:50 
+	 INFORMACI”N SOBRE EL PAIS
+
+	 Nombre del Presidente: Sauli Niinisto . 
+	 Poblacion: 				 5 millones
+	 Estados: 				 19 estados
+	 Iidioma: 				 Fines
+	 Gentilicio: 				 Fines
+	 Capital: 				 Helsinki
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 28
+
+	 Nombre Pais: Espana 	 BOLETA:54 
+	 INFORMACI”N SOBRE EL PAIS
+
+	 Nombre del Presidente: Pedro Sanchez . 
+	 Poblacion: 				 47 millones
+	 Estados: 				 50 estados
+	 Iidioma: 				 Castellano
+	 Gentilicio: 				 Espanol
+	 Capital: 				 Madrid
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 29
+
+	 Nombre Pais: China 	 BOLETA:55 
+	 INFORMACI”N SOBRE EL PAIS
+
+	 Nombre del Presidente: Xi Jinping . 
+	 Poblacion: 				 1393 millones
+	 Estados: 				 26 estados
+	 Iidioma: 				 Chino
+	 Gentilicio: 				 Chino
+	 Capital: 				 Pekin
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 30
+
+	 Nombre Pais: Paraguay 	 BOLETA:56 
+	 INFORMACI”N SOBRE EL PAIS
+
+	 Nombre del Presidente: Mario Abdo Benitez 
+	 Poblacion: 				 17 millones
+	 Estados: 				 6 estados
+	 Iidioma: 				 Espanol
+	 Gentilicio: 				 Paraguayo
+	 Capital: 				 Asuncion
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 31
+
+	 Nombre Pais: Islandia 	 BOLETA:60 
+	 INFORMACI”N SOBRE EL PAIS
+
+	 Nombre del Presidente: Gu√∞ni Thorlacius Johannesson 
+	 Poblacion: 				 362 millones
+	 Estados: 				 8 estados
+	 Iidioma: 				 Islandes
+	 Gentilicio: 				 Islandes
+	 Capital: 				 Reikiavik
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 32
+
+	 Nombre Pais: Marruecos 	 BOLETA:64 
+	 INFORMACI”N SOBRE EL PAIS
+
+	 Nombre del Presidente: MohamedVI de Marruecos 
+	 Poblacion: 				 35 millones
+	 Estados: 				 62 estados
+	 Iidioma: 				 Arabe
+	 Gentilicio: 				 Marroqui
+	 Capital: 				 Rabat
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 33
+
+	 Nombre Pais: Francia 	 BOLETA:65 
+	 INFORMACI”N SOBRE EL PAIS
+
+	 Nombre del Presidente: Emmanuel Macron . 
+	 Poblacion: 				 66 millones
+	 Estados: 				 18 estados
+	 Iidioma: 				 Frances
+	 Gentilicio: 				 Frances
+	 Capital: 				 Paris
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 34
+
+	 Nombre Pais: India 	 BOLETA:66 
+	 INFORMACI”N SOBRE EL PAIS
+
+	 Nombre del Presidente: Ram Nath Kovind 
+	 Poblacion: 				 1353 millones
+	 Estados: 				 29 estados
+	 Iidioma: 				 Hindi
+	 Gentilicio: 				 Indio
+	 Capital: 				 Nueva.Delhi
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 35
+
+	 Nombre Pais: Ecuador 	 BOLETA:67 
+	 INFORMACI”N SOBRE EL PAIS
+
+	 Nombre del Presidente: Lenin Moreno . 
+	 Poblacion: 				 24 millones
+	 Estados: 				 17 estados
+	 Iidioma: 				 Espanol
+	 Gentilicio: 				 Ecuatoriano
+	 Capital: 				 Quito
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 36
+
+	 Nombre Pais: Irlanda 	 BOLETA:70 
+	 INFORMACI”N SOBRE EL PAIS
+
+	 Nombre del Presidente: Michael D. Higgins 
+	 Poblacion: 				 4 millones
+	 Estados: 				 2 estados
+	 Iidioma: 				 Ingles
+	 Gentilicio: 				 Irlandes
+	 Capital: 				 Dublin
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 37
+
+	 Nombre Pais: Corea.Del.Norte 	 BOLETA:75 
+	 INFORMACI”N SOBRE EL PAIS
+
+	 Nombre del Presidente: Kim Jong un 
+	 Poblacion: 				 25 millones
+	 Estados: 				 0 estados
+	 Iidioma: 				 Coreano
+	 Gentilicio: 				 Coreana
+	 Capital: 				 Pionyang
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 38
+
+	 Nombre Pais: Alemania 	 BOLETA:76 
+	 INFORMACI”N SOBRE EL PAIS
+
+	 Nombre del Presidente: Frank Walter Steinmeier 
+	 Poblacion: 				 83 millones
+	 Estados: 				 16 estados
+	 Iidioma: 				 Aleman
+	 Gentilicio: 				 Aleman
+	 Capital: 				 Berlin
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 39
+
+	 Nombre Pais: EEUU 	 BOLETA:77 
+	 INFORMACI”N SOBRE EL PAIS
+
+	 Nombre del Presidente: Donald Trump . 
+	 Poblacion: 				 328 millones
+	 Estados: 				 50 estados
+	 Iidioma: 				 Ingles
+	 Gentilicio: 				 Estadounidense
+	 Capital: 				 WashingtonD.C.
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 40
+
+	 Nombre Pais: Peru 	 BOLETA:78 
+	 INFORMACI”N SOBRE EL PAIS
+
+	 Nombre del Presidente: Martin Vizcarra Cornejo 
+	 Poblacion: 				 24 millones
+	 Estados: 				 32 estados
+	 Iidioma: 				 Espanol
+	 Gentilicio: 				 Peruano
+	 Capital: 				 Lima
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 41
+
+	 Nombre Pais: Escocia 	 BOLETA:80 
+	 INFORMACI”N SOBRE EL PAIS
+
+	 Nombre del Presidente: Nicola Sturgeon . 
+	 Poblacion: 				 5 millones
+	 Estados: 				 790 estados
+	 Iidioma: 				 Ingles
+	 Gentilicio: 				 Escoces
+	 Capital: 				 Edimburgo
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 42
+
+	 Nombre Pais: Corea.Del.Sur 	 BOLETA:85 
+	 INFORMACI”N SOBRE EL PAIS
+
+	 Nombre del Presidente: Moon Jae in 
+	 Poblacion: 				 51 millones
+	 Estados: 				 9 estados
+	 Iidioma: 				 Coreano
+	 Gentilicio: 				 Surcoreano
+	 Capital: 				 Seul
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 43
+
+	 Nombre Pais: Turquia 	 BOLETA:87 
+	 INFORMACI”N SOBRE EL PAIS
+
+	 Nombre del Presidente: Recep Tayyip Erdogan 
+	 Poblacion: 				 83 millones
+	 Estados: 				 21 estados
+	 Iidioma: 				 Turco
+	 Gentilicio: 				 Turco
+	 Capital: 				 Ankara
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 44
+
+	 Nombre Pais: Rusia 	 BOLETA:88 
+	 INFORMACI”N SOBRE EL PAIS
+
+	 Nombre del Presidente: Vladimir Putin . 
+	 Poblacion: 				 144 millones
+	 Estados: 				 48 estados
+	 Iidioma: 				 Ruso
+	 Gentilicio: 				 Ruso
+	 Capital: 				 Moscu
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 45
+
+	 Nombre Pais: CostaRica 	 BOLETA:89 
+	 INFORMACI”N SOBRE EL PAIS
+
+	 Nombre del Presidente: Carlos Alvarado Quesada 
+	 Poblacion: 				 7 millones
+	 Estados: 				 4 estados
+	 Iidioma: 				 Espanol
+	 Gentilicio: 				 Costarricense
+	 Capital: 				 San.Jose
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 46
+
+	 Nombre Pais: Panama 	 BOLETA:90 
+	 INFORMACI”N SOBRE EL PAIS
+
+	 Nombre del Presidente: Laurentino Cortizo . 
+	 Poblacion: 				 10 millones
+	 Estados: 				 4 estados
+	 Iidioma: 				 Espanol
+	 Gentilicio: 				 Panameno
+	 Capital: 				 Ciudad.Panama
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 47
+
+	 Nombre Pais: Japon 	 BOLETA:95 
+	 INFORMACI”N SOBRE EL PAIS
+
+	 Nombre del Presidente: Naruhito . . 
+	 Poblacion: 				 126 millones
+	 Estados: 				 47 estados
+	 Iidioma: 				 Japones
+	 Gentilicio: 				 Japones
+	 Capital: 				 Tokio
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 48
+
+	 Nombre Pais: Grecia 	 BOLETA:98 
+	 INFORMACI”N SOBRE EL PAIS
+
+	 Nombre del Presidente: Katerina Sakellaropoulou . 
+	 Poblacion: 				 10 millones
+	 Estados: 				 51 estados
+	 Iidioma: 				 Griego
+	 Gentilicio: 				 Griego
+	 Capital: 				 Atenas
+__________________________________________________________________________________
+
+				 IPN
+				UPIICSA
+								FOLIO: 49
+
+	 Nombre Pais: Colombia 	 BOLETA:99 
+	 INFORMACI”N SOBRE EL PAIS
+
+	 Nombre del Presidente: Ivan Duque Marquez 
+	 Poblacion: 				 33 millones
+	 Estados: 				 49 estados
+	 Iidioma: 				 Espanol
+	 Gentilicio: 				 Colombiano
+	 Capital: 				 Bogota
+__________________________________________________________________________________
+

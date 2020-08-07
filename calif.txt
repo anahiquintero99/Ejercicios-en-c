@@ -1,0 +1,50 @@
+01 Leonel Hernandes Carrera 6 6 6
+02 Martha Pacheco Veliz 8 5 8
+03 Lourdes Becerra Frias 9 9 9
+04 Lorenzo Carrasco Archuleta 6 6 8 
+05 Alma Hernandes Rodarte 4 8 9 6 7
+06 Luz Aparicio Tapia 9 9 9 6 9
+07 Angela Pichardo Delgado 3 5 1 8 5
+08 Noemi Rodriquez Valle 9 10 8 9 8
+09 Ivan Enriquez Laureano 10 10 10 9 9
+10 Raquel Paz Vargas 7 8 7 7 6
+11 Wilfrido Iglesias Guardado 3 9 6 5 8
+12 Bernardo Flores Briseno 9 8 9 10 10
+13 Araceli Rojas Blanco 6 7 6 8 8
+14 Augusto Ramon Lebron 3 9 8 9 7
+15 Conchita Velasco Perez 5 8 9 10 9
+16 Debora Barela Montes 9 1 10 10 9
+17 Guadalupe Valencia Naranjo 10 6 8 8 8
+18 Laura Teran Valadez 4 6 7 9 10
+19 Nelly Cervantez Perez 3 7 9 9 10
+20 Dolores Jaime Santana 7 1 10 9 9
+21 Florencia Caballero Ponce 9 2 6 10 10
+22 Marisol Corona Aparicio 9 5 9 9 9
+23 Jonas Aranda Nino 7 5 4 6 7
+24 Eduardo Pedroza Pacheco 5 10 9 5 6
+25 Natalia Campos Espinoza 7 6 9 7 8
+26 Pamela Rivero Saucedo 8 5 6 8 8
+27 Gabriela Navarro Prado 9 7 8 7 7
+28 Jonas Montanez Griego 5 9 8 9 9
+29 Aurelio Duenas Colunga 7 9 10 7 9
+30 Hector Florez Palomo 9 4 9 10 10
+31 Veronica Renteria Ceja 6 5 7 8 9
+32 Angela Burgos Badillo 8 8 7 8 8
+33 Fernando Garcia Vazquez 8 9 5 10 9
+34 Renato Alvarado Mares 7 9 9 8 7
+35 Manuel Cruz Cortez 6 7 9 6 7
+36 Adela Ontiveros Collado 8 7 8 8 8
+37 Hernan Garica Lugo 9 8 7 4 3
+38 Lourdes Terrazas Cotto 9 6 8 2 3
+39 Clara Gurule Peres 10 10 10 10 10
+40 Martin Orta Barrera 10 10 9 10 10
+41 Angel Herrera Diaz 10 9 8 10 10
+42 Elsa Guerra Montenegro 8 7 6 5 3
+43 Cecilia Avila Lebron 6 10 9 4 5
+44 Margarita Tijerina Ledesma 7 9 8 8 6
+45 Indira Carranza Rios 5 5 5 5 4
+46 Soledad Blanco Acevedo 7 9 8 9 8
+47 Elisa Porras Espinosa 10 9 7 9 9
+48 Rosario Godoy Miramontes 8 9 6 8 7
+49 Jaqueline Leyva Valenzuela 3 4 5 4 3
+50 David Verduzco Espinal 9 10 9 10 9

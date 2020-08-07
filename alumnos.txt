@@ -1,0 +1,5 @@
+Susana   20    9.5
+Ana      18    10.0
+Fernando 20    10.0
+Andres   18    9.8
+Edward   17    10.0   
